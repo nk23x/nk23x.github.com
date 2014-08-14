@@ -1,4 +1,5 @@
-= nk23x.github.com =
+nk23x.github.com
+================
 
 github pages
 
