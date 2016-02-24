@@ -1,6 +1,6 @@
 excerpt_separator: ""
 pygments: true
-markdown: 
+markdown: kramdown
 title: nk23x weblog
 tagline: 
 description: 
