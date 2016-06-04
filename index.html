@@ -7,11 +7,10 @@ title: Home
 <html>
   <head>
     <meta charset='utf-8'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
     <title>nk23x.github.com</title>
   </head>
-
   <body>
     <div id="container">
       <div class="inner">
@@ -22,50 +21,50 @@ title: Home
 
         <section id="main_content">
           
-        <div class="posts">
-
-            {% for post in paginator.posts %}
-         
-            <div class="post">
-              <h1 class="post-title">
-                  <!-- <a href="{{ post.url }}"> -->
-                  {{ post.title }}
-                <!-- </a> -->
-              </h1>
-
-              <span class="post-date">{{ post.date | date_to_string }}</span><br><br>
-
-                {{ post.content }}
-
-                
-          </div>
-      
-          {% endfor %}
-      
-      </div>
-          
+	        <div class="posts">
+	
+	            {% for post in paginator.posts %}
+		         
+		            <div class="post">
+		              <h1 class="post-title">
+		                 <a href="{{baseurl}}{{ post.url }}">
+		                  {{ post.title }}
+		                 </a> 
+		              </h1>
+		
+		              <span class="post-date">{{ post.date | date_to_string }}</span><br><br>
+		
+		                {{ post.content }}
+		
+		                
+		          </div>
+		      
+	          {% endfor %}
+	      
+	      </div>
+	          
         </section>
 
         <footer>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">+</a>
-  {% else %}
-    <span class="pagination-item older"></span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">-</a>
-    {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">-</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer"></span>
-  {% endif %}
-</div>
-
+			<div class="pagination">
+			  {% if paginator.next_page %}
+			    <a class="pagination-item older" href="/page{{paginator.next_page}}">+</a>
+			  {% else %}
+			    <span class="pagination-item older"></span>
+			  {% endif %}
+			
+			  {% if paginator.previous_page %}
+			    {% if paginator.page == 2 %}
+			      <a class="pagination-item newer" href="/">-</a>
+			    {% else %}
+			      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">-</a>
+			    {% endif %}
+			  {% else %}
+			    <span class="pagination-item newer"></span>
+			  {% endif %}
+			</div>
+		
         </footer>
 
         
@@ -73,9 +72,4 @@ title: Home
     </div>
   </body>
 </html>
-
-
-
-
-
 
