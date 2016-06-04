@@ -1,3 +1,5 @@
+canonical: https://nk23x.github.com/
+baseurl: /
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
@@ -5,3 +7,4 @@ title: nk23x weblog
 tagline: 
 description: 
 paginate: 3
+permalink:   :title
