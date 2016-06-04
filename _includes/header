@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print">
+    <title>nk23x.github.com {{post.title}}</title>
+  </head>
+  <body>
+    <div id="container">
+      <div class="inner">
+        <header>
+            <h1><a href="http://nk23x.github.com/">nk23x.github.com</a></h1>
+        </header>
+
+        
