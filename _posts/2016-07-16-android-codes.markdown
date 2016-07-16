@@ -4,8 +4,7 @@ title: android codes
 layout: post
 tags: [android]
 ---
-
-	Testing Menu
+Testing Menu
 	*#*#4636#*#*
 	
 	Display Info about device                            
@@ -17,7 +16,8 @@ tags: [android]
 	Camera Information                                                          
 	*#*#34971539#*#*
 	
-	Completely Wipe device, install stock firmware
+	Completely Wipe device, 
+        install stock firmware
 	*2767*3855#
 	
 	Backup all media files
@@ -77,7 +77,8 @@ tags: [android]
 	Google Talk service monitoring
 	*#*#8255#*#*
 	
-	PDA, Hardware, Phone and RF Call Date info
+	PDA, Hardware, Phone 
+        and RF Call Date info
 	*#*#4986*2650468#*#*
 	
 	PDA and Phone firmware check
@@ -101,7 +102,8 @@ tags: [android]
 	Brings up Epst menu
 	##778 +call
 	
-	Displays Build time and change list number
+	Displays Build time and 
+        change list number
 	*#*#44336#*#*
 	
 	Remove Google account setting
@@ -158,6 +160,6 @@ tags: [android]
 	Quick test menu
 	*#7353#
 	
-	Execute from Emergency dial screen to unlock PUK code
+	Execute from Emergency dial screen 
+        to unlock PUK code
 	**05***#
-	
