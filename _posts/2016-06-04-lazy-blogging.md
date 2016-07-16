@@ -1,5 +1,8 @@
 ---
 published: true
+title: recently ...
+layout: post
+tags: [blog]
 ---
 recently i regained a certain interest on the github pages service since it seams to be one of the esiest ways to keep up a personal blog ...
 
