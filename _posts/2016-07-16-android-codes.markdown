@@ -4,7 +4,8 @@ title: android codes
 layout: post
 tags: [android]
 ---
-Testing Menu
+        
+        Testing Menu
 	*#*#4636#*#*
 	
 	Display Info about device                            
