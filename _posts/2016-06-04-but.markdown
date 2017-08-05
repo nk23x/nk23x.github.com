@@ -1,6 +1,0 @@
----
-published: true
-title: ... but
-layout: post
----
-the best interface to github pages for my blogging needs is tinypress: https://tinypress.co

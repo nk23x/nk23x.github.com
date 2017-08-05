@@ -3,12 +3,12 @@ baseurl: /
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-title: nk23x weblog
+title: nk23xgithubpages
 tagline: 
 description: excursions on github pages
 paginate: 3
 permalink:   :title
 
 google_analytics: 
-show_downloads: true
+show_downloads: false 
 theme: jekyll-theme-minimal
