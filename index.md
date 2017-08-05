@@ -1,6 +1,1 @@
-* [posts/2016-02-26-streams.md](posts/2016-02-26-streams.md)
-* [posts/2016-06-04-but.md](posts/2016-06-04-but.md)
-* [posts/2016-06-04-lazy-blogging.md](posts/2016-06-04-lazy-blogging.md)
-* [posts/2016-07-16-android-codes.md](posts/2016-07-16-android-codes.md)
-* [posts/2016-08-04-huawei-p8-lite-dual-sim-sdcard.md](posts/2016-08-04-huawei-p8-lite-dual-sim-sdcard.md)
-* [posts/2016-10-06-readability-com-exports.md](posts/2016-10-06-readability-com-exports.md)
+* [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
