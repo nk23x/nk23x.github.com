@@ -5,6 +5,10 @@ pygments: true
 markdown: kramdown
 title: nk23x weblog
 tagline: 
-description: 
+description: excursions on github pages
 paginate: 3
 permalink:   :title
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
