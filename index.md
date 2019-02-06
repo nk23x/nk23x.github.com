@@ -1,6 +1,8 @@
-## [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
+## on github
+* [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
+* [templates-linux](https://github.com/nk23x/templates-linux)
 
-## github pages / jekyll 
+## jekyll docs
 * [structure](https://jekyllrb.com/docs/structure)
 * [layouts](https://jekyllrb.com/docs/layouts)
 * [front-matter](https://jekyllrb.com/docs/front-matter)
