@@ -6,7 +6,8 @@ markdown: kramdown
 title: nk23x:github:pages
 tagline: 
 description: hello world :)
-paginate: 3
+paginate: 10
+paginate_path: "/blog/page:num/"
 permalink:   :title
 google_analytics: 
 show_downloads: false 
