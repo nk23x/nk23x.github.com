@@ -2,4 +2,3 @@
 
 {{ site.pages }}
 
-{{ site.posts }}
