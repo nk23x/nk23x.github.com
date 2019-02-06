@@ -1,5 +1,11 @@
-* [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
+## [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
 
-{% for post in site.posts %}
-* [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
+## github pages / jekyll 
+* https://jekyllrb.com/docs/structure/
+* https://jekyllrb.com/docs/layouts/
+* https://jekyllrb.com/docs/front-matter/
+* https://jekyllrb.com/docs/variables/
+* https://jekyllrb.com/docs/includes/
+* https://jekyllrb.com/docs/pages/
+* https://jekyllrb.com/docs/posts/
+* https://jekyllrb.com/docs/pagination/
