@@ -2,6 +2,9 @@
 * [gists](https://gist.github.com/nk23x/public?direction=desc&sort=updated)
 * [templates-linux](https://github.com/nk23x/templates-linux)
 
+{% gist 5555251 %}
+
+
 ## jekyll docs
 * [structure](https://jekyllrb.com/docs/structure)
 * [layouts](https://jekyllrb.com/docs/layouts)
